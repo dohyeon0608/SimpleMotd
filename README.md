@@ -8,6 +8,6 @@
 `/motd set <내용>` - motd를 설정합니다.  
 
 ## Permission
-`dohyeonmotd`
-└ `dohyeonmotd.getmotd`
-└ `dohyeonmotd.etmotd`
+`dohyeonmotd`  
+└ `dohyeonmotd.getmotd`  
+└ `dohyeonmotd.etmotd`  
