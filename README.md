@@ -10,4 +10,4 @@
 ## Permission
 `dohyeonmotd`  
 └ `dohyeonmotd.getmotd`  
-└ `dohyeonmotd.etmotd`  
+└ `dohyeonmotd.setmotd`  
